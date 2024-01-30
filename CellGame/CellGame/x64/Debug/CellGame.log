@@ -1,0 +1,3 @@
+﻿  CellGame.cpp
+D:\NanFei\Documents\HighC\CellGame\CellGame\CellGame.cpp(31,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  CellGame.vcxproj -> D:\NanFei\Documents\HighC\CellGame\x64\Debug\CellGame.exe

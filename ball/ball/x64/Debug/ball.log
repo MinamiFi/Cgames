@@ -1,0 +1,5 @@
+﻿  ball.cpp
+D:\NanFei\Documents\HighC\ball\ball\ball.cpp(15,12): warning C4101: “p”: 未引用的局部变量
+D:\NanFei\Documents\HighC\ball\ball\ball.cpp(15,9): warning C4101: “j”: 未引用的局部变量
+D:\NanFei\Documents\HighC\ball\ball\ball.cpp(15,6): warning C4101: “i”: 未引用的局部变量
+  ball.vcxproj -> D:\NanFei\Documents\HighC\ball\x64\Debug\ball.exe
